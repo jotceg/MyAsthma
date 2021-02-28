@@ -1,0 +1,7 @@
+{
+  "name": "MyAsthma",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

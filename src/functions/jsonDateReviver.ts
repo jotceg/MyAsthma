@@ -1,0 +1,1 @@
+export default (key: string, value: any) => key === "when" ? new Date(value as string) : value;

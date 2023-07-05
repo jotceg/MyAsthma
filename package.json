@@ -1,5 +1,5 @@
 {
-  "name": "MyAsthma",
+  "name": "myasthma",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
@@ -63,5 +63,5 @@
   "devDependencies": {
     "@capacitor/cli": "2.4.6"
   },
-  "description": "An Ionic project"
+  "description": "An app designed to help asthmatics manage their disease better"
 }
